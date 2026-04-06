@@ -1,0 +1,36 @@
+# Groups section information.
+# Make sure that there's an image in assets/img folder that match the imageName.
+# It's good practise to add jpg and webp images for best performance.
+- name: Tulitassut (1-3v)
+  imageName: tulitassut
+  imageFirstOnDesktop: true
+  description:
+    - >-
+      Tulitassujen ryhmässä haluamme luoda lämpimän, kiireettömän ja turvallisen ilmapiirin. Toimimme koko ryhmän kesken
+      sekä pienryhmissä, huomioiden lasten yksilöllisyyden.
+    - >-
+      Lasten osallisuus ja päiväkodin yhteisöllisyys ovat
+      toimintaa ohjaavia arvoja. Tärkeänä koemme tunne- ja vuorovaikutustaitojen sekä itsesäätelyn vahvistamisen.
+      Jokaisen lapsen vahvuudet ja uusien taitojen oppiminen positiivisen kannustuksen siivittämänä ovat toiminnassamme
+      keskeisiä.
+    - >-
+      Yhteisinä toimintahetkinä liikumme monipuolisesti, teemme kädentaitoja, tuemme lasten kielellistä kehitystä,
+      laulamme ja leikimme. Toiminnan teemat nousevat lasten mielenkiinnon kohteista. Lähimetsää käytämme
+      oppimisympäristönä mahdollisuuksien mukaan.
+- name: Kultakaislat (4-6v)
+  imageName: kultakaislat
+  imageFirstOnDesktop: false
+  description:
+    - >-
+      Kultakaislojen toiminta painottuu lasten leikkitaitoihin, kaveruuteen ja toisen kunnioittamiseen sekä hyviin
+      käytöstapoihin. Kannustamme lapsia omatoimisuuteen ja selviytymään arjen eri
+      tilanteissa huomioiden jokaisen lapsen yksilölliset kehitystarpeet.
+    - >-
+      Viikottaisiin toimintoihin kuuluvat leikit, laulut, kädentaidot ja viskari- ja esikoulutuokiot. Tulemme varaamaan
+      liikuntasalin käyttöömme kerran viikossa ja talvella hiihdämme ja luistelemme. Lähimetsä antaa hyvät edellytykset
+      tutustua luontoon, johon teemme retkiä syksyllä ja keväällä.
+    - >-
+      Esikoululaisilla on lisäksi esiopetuksen vuosisuunnitelma, joka luo toiminnalle omat raaminsa. "Seikkailujen 
+      eskari" työkirjan opastuksella harjoittelemme viikoittaisten toimintojen lisäksi mm. monilukutaitoa sekä
+      tutustumme mediakasvatukseen. Lapsia rohkaistaan ja autetaan kehittämään ajattelun ja oppimisentaitoja ja
+      vahvistetaan lapsen luottamusta omaan osaamiseensa.

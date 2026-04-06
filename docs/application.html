@@ -1,0 +1,47 @@
+---
+layout: plain
+---
+
+<header class="form-header">
+  <picture>
+    <source srcset="assets/img/form-header.webp" type="image/webp">
+    <source srcset="assets/img/form-header.jpg" type="image/jpeg">
+    <img src="assets/img/form-header.jpg" alt="Header">
+  </picture>
+</header>
+<!-- Application -->
+<section>
+  <form id="application" class="justify-content-center align-items-center p-3 p-sm-5">
+    <div class="form-row col-12 col-md-8 col-lg-6">
+
+      <div class="form-group">
+        <input type="text" class="form-control" id="email" placeholder="Sähköposti" required>
+      </div>
+
+      <div class="form-group">
+        <input type="text" class="form-control" id="phone" placeholder="Puhelinnumero" required>
+      </div>
+
+      <div class="form-group">
+        <label for="birthday">Lapsen syntymäpäivä</label>
+        <input type="text" class="form-control" id="birthday" placeholder="pp.kk.vvvv" required>
+      </div>
+
+      <div class="form-group">
+        <label for="startDate">Aloitus pvm</label>
+        <input type="text" class="form-control" id="startDate" placeholder="pp.kk.vvvv" required>
+      </div>
+
+      <div class="form-group">
+        <label for="amount">Päivittäinen hoitoaika</label>
+        <input type="text" class="form-control" id="amount" required>
+      </div>
+
+      <div class="form-group">
+        <label for="freeTextArea">Lisäinfoa</label>
+        <textarea class="form-control" id="freeText" rows="4" placeholder="Vapaapäivät, allergiat, erityisruokavaliot..."></textarea>
+      </div>
+
+      <button class="btn btn-primary" type="submit">Lähetä hakemus</button>
+  </form>
+</section>

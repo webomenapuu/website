@@ -1,0 +1,17 @@
+# Build settings
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Site settings
+title: Päiväkoti Omenapuu
+description: >-
+  Päiväkoti Omenapuu on pieni, kodinomainen ja lämminhenkinen
+  vanhenpainyhdistyksen ylläpitämä päiväkoti, joka sijaitsee luonnonkauniissa ympäristössä
+  Mäntsälän Mäntymäentiellä.
+domain: paivakotiomenapuu.github.io
+url: https://paivakotiomenapuu.github.io
+baseurl: ""
+hasPromotion: false
+promoTitle: "Lasten liikennekaupunki"

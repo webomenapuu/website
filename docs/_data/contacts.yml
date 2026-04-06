@@ -1,0 +1,22 @@
+# Contact section information
+# Icons are Bootstrap icons v1.10.5
+# https://icons.getbootstrap.com/
+details:
+  - icon: bi-mailbox
+    text: Mäntymäentie 9B, 04600 Mäntsälä
+  - icon: bi-clock
+    text: MA-PE 6:30 - 17:15
+links:
+  - icon: bi-envelope-at
+    type: "mailto:"
+    text: pkomenapuu@paivakotiomenapuu.fi
+  - icon: bi-phone
+    type: "tel:"
+    text: 0400 977 506
+socials:
+  - icon: bi-facebook
+    link: https://www.facebook.com/people/Päiväkoti-Omenapuu/100054432252403/
+    text: Facebook
+  - icon: bi-instagram
+    link: https://www.instagram.com/pkomenapuu/
+    text: Instagram

@@ -1,0 +1,15 @@
+# Values section information.
+# Icons are Bootstrap icons v1.10.5
+# https://icons.getbootstrap.com/
+- icon: bi-balloon-heart
+  title: Kiireettömyys ja turvallisuus
+  text: Pyrimme joka päivä luomaan kodinomaisen ilmapiirin.
+- icon: bi-chat
+  title: Vuorovaikutus
+  text: Toimimme sekä koko ryhmän kesken että pienryhmissä.
+- icon: bi-award
+  title: Hyvät käytöstavat
+  text: Arvostamme ja kunnioitamme toinen toisiamme.
+- icon: bi-house-door
+  title: Yhteistyö vanhempien kanssa
+  text: Vanhemmat ovat tärkeä osa Omenapuun arkea.
