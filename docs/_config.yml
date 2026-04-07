@@ -12,6 +12,6 @@ description: >-
   Mäntsälän Mäntymäentiellä.
 domain: paivakotiomenapuu.github.io
 url: https://paivakotiomenapuu.github.io
-baseurl: ""
+baseurl: "/website"
 hasPromotion: false
 promoTitle: "Lasten liikennekaupunki"
