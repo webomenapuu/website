@@ -12,6 +12,5 @@ description: >-
   Mäntsälän Mäntymäentiellä.
 domain: webomenapuu.github.io
 url: https://webomenapuu.github.io
-baseurl: "/website"
 hasPromotion: false
 promoTitle: "Lasten liikennekaupunki"
