@@ -39,6 +39,11 @@ Kuvien kanssa on hyvä käytäntö tallentaa kuvat sopivan kokoisina käyttökoh
 
 *Myös pelkkä jpg kuva riittää, mutta tällöin modernit selaimet eivät pysty hyödyntämään paremman kompression tukevaa webp formaattia.*
 
+#### Etusivulle ponnahtava mainos
+
+Kuva löytyy nimellä promo.jpg. 
+Aktivoidaan tiedostossa [_config.yml](https://github.com/webomenapuu/website/blob/main/docs/_config.yml) rivillä ```hasPromotion: false```. 
+
 ---
 
 ### Kehitys omalla koneella
